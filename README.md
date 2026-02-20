@@ -4,4 +4,5 @@ text
 
 ## Connect with me:
 
-LinkedIn
+🔗 (LinkedIn)[https://www.linkedin.com/in/jakub-klusak/]
+(Videogame Portfolio)[https://auric-forge.itch.io/]
