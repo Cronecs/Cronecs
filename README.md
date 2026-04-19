@@ -10,19 +10,22 @@ Throughout my IT journey, I've learned programming techniques, game design, soun
 ```
 👨‍💻IT:
     🟢 Front-end:
-        - HTML           3 years
-        - CSS              1 year
+        - HTML            3 years
+        - CSS             1 year
         - some PHP
+
     🟡 Back-end:
-        - GDScript       5 years
-        - JavaScript     2 years
+        - GDScript        5 years
+        - JavaScript      2 years
         - Python          2 years
-        - Java              1 year
-        - C#                1 year
-        - a bit of C         :)
+        - Java            1 year
+        - C#              1 year
+        - a bit of C        :)
+
     🟤 Platforms:
         - Windows
         - Linux
+
     🟣 Tools:
         - Git, GitHub, Gitlab
         - Jira
