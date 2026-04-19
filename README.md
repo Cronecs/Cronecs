@@ -1,6 +1,6 @@
 ## Hi There!
 
-Junior Software Developer with internship experience at Red Hat, supporting CI/CD workflows and collaborative development. Brings practical skills in Java, Python, web technologies, and version control to help deliver reliable, well-structured software.
+I'm Junior Software Developer with internship experience at Red Hat, supporting CI/CD workflows and collaborative development. I Bring practical skills in Java, Python, web technologies, and version control to help deliver reliable, well-structured software.
 
 I've been working on my own game development projects in a team of 3 since the July of 2022, using Unity for a year and then Godot since.
 
