@@ -1,4 +1,4 @@
-## Hello, I'm Jakub!
+## Hi There!
 
 Junior Software Developer with internship experience at Red Hat, supporting CI/CD workflows and collaborative development. Brings practical skills in Java, Python, web technologies, and version control to help deliver reliable, well-structured software.
 
