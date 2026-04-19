@@ -7,7 +7,7 @@ I've been working on my own game development projects in a team of 3 since the J
 Throughout my IT journey, I've learned programming techniques, game design, sound design, arts and most important that coffee is amazing! ☕
 
 ## My experience
-
+```
 👨‍💻IT:
     🟢 Front-end:
         - HTML           3 years
@@ -30,7 +30,7 @@ Throughout my IT journey, I've learned programming techniques, game design, soun
 ✨General:
         ⭕ Working in a team
         🟠 Talking to people :)
-
+```
 
 
 ## Connect with me:
