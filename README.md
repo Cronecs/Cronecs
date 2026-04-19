@@ -6,14 +6,13 @@ I've been working on my own game development projects in a team of 3 since the J
 
 Throughout my IT journey, I've learned programming techniques, game design, sound design, arts and most important that coffee is amazing! ☕
 
-My experience
+## My experience
 
 👨‍💻IT:
     🟢 Front-end:
         - HTML           3 years
         - CSS              1 year
         - some PHP
-
     🟡 Back-end:
         - GDScript       5 years
         - JavaScript     2 years
@@ -21,11 +20,9 @@ My experience
         - Java              1 year
         - C#                1 year
         - a bit of C         :)
-
     🟤 Platforms:
         - Windows
         - Linux
-
     🟣 Tools:
         - Git, GitHub, Gitlab
         - Jira
